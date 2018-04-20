@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test_MVP</string>
+    <string name="mobile_tag">请填写手机号</string>
+    <string name="password_tag">请填写密码</string>
+    <string name="password_tag_s">请确认密码</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="wrong_mobile_num">手机号格式不正确</string>
+    <string name="wrong_password">密码格式不正确</string>
+    <string name="wrong_password_diff">两次密码不一致</string>
+</resources>
